@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cet4",
+    "name": "四级词汇",
+    "description": "7508 词",
+    "size": 7508,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/cet4.json"
+  },
+  {
+    "id": "cet6",
+    "name": "六级词汇",
+    "description": "5651 词",
+    "size": 5651,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/cet6.json"
+  },
+  {
+    "id": "kaoyan",
+    "name": "考研词汇",
+    "description": "9602 词",
+    "size": 9602,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/kaoyan.json"
+  },
+  {
+    "id": "toefl",
+    "name": "托福词汇",
+    "description": "13477 词",
+    "size": 13477,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/toefl.json"
+  },
+  {
+    "id": "ielts",
+    "name": "雅思词汇",
+    "description": "7002 词",
+    "size": 7002,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/ielts.json"
+  },
+  {
+    "id": "gmat",
+    "name": "GMAT词汇",
+    "description": "6301 词",
+    "size": 6301,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/gmat.json"
+  },
+  {
+    "id": "sat",
+    "name": "SAT词汇",
+    "description": "8887 词",
+    "size": 8887,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/sat.json"
+  },
+  {
+    "id": "gre",
+    "name": "GRE词汇",
+    "description": "13714 词",
+    "size": 13714,
+    "url": "https://raw.githubusercontent.com/IkaSiyuMu/desktop-girl-wordlists/main/gre.json"
+  }
+]
